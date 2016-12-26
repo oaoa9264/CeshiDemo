@@ -117,11 +117,5 @@ public class MainActivity extends LinearLayout {
     }
 
 }
-/**
- * 重载和重写有什么区别 activity server 启动模式
- *
- * string 和 stringbuff 有什么区别   intent可以传递什么类型
- *
- *
- */
+
 
